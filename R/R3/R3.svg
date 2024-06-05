@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1449.83 1449.83" style="enable-background:new 0 0 1449.83 1449.83;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-width:28;stroke-miterlimit:10;}
+	.st2{fill:#918F90;}
+	.st3{fill:#909090;}
+	.st4{font-family:'SnvD-ReguCond';}
+	.st5{font-size:413.3013px;}
+	.st6{font-family:'SnvD-Regu';}
+	.st7{font-size:304.2055px;}
+</style>
+<path id="fond" class="st0" d="M1228.91,1401.91h-951c-27.61,0-50-22.39-50-50v-1239c0-27.61,22.39-50,50-50h951
+	c27.61,0,50,22.39,50,50v1239C1278.91,1379.53,1256.53,1401.91,1228.91,1401.91z"/>
+<path id="contour" class="st1" d="M1224.91,1362.91h-943c-8.28,0-15-6.72-15-15v-1231c0-8.28,6.72-15,15-15h943
+	c8.28,0,15,6.72,15,15v1231C1239.91,1356.2,1233.2,1362.91,1224.91,1362.91z"/>
+<g id="C43">
+	<circle id="rouge" class="st2" cx="753.41" cy="732.41" r="327.5"/>
+	<circle id="blanc" class="st0" cx="753.41" cy="732.41" r="250"/>
+	<text transform="matrix(1 0 0 1 575.4311 871.5488)" class="st3 st4 st5">30</text>
+</g>
+<text transform="matrix(1 0 0 1 451.9135 366.4843)" class="st6 st7">Zone</text>
+<path id="barre" d="M1225.86,116.64l-0.94-0.72h-81.86L280.91,1241.99v105.92c0,0.55,0.45,1,1,1h80.86l863.14-1127.38V116.91
+	C1225.91,116.81,1225.88,116.73,1225.86,116.64z"/>
+</svg>
