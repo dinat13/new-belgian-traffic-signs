@@ -1,2 +1,4 @@
 -new house icon
 -wheels horse
+-horse ear
+-(fix crossed signs angle?)
