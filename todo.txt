@@ -2,3 +2,5 @@
 -wheels horse
 -horse ear
 -(fix crossed signs angle?)
+-lower speed limit for R17 (and R9?)
+-R17 bilingual
